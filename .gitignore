@@ -1,0 +1,17 @@
+# Entornos y builds
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.py[cod]
+
+# Cachés de herramientas
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Sistema
+.DS_Store
+Thumbs.db
